@@ -1,0 +1,6 @@
+code,value,description
+0,Not defined,Pre-authentication was not used in the AS_REQ.
+2,PA-ENC-TIMESTAMP,Pre-authentication with encrypted timestamp.
+15,PA-PK-AS-REP_OLD,PKINIT (Smart Cards) pre-authentication.
+20,PA-SVR-REFERRAL-INFO,KDC Referral ticket pre-authentication.
+138,PA-ENCRYPTED-CHALLENGE,FAST (Kerberos Armoring) pre-authentication.
