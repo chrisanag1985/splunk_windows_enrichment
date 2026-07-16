@@ -3,7 +3,7 @@
 - Converts Hex Process ID to Decimal (For sysmon correlation)
 - Enrich Kerberos `TicketOptions` with human friendly message
 - Enrich Kerberos Encryption Types and PreAuth Types
-- Enrich a lot of fields that have `%%dddd` values with human friedly message
+- Enrich a lot of fields that have `%%dddd` values with human friendly message
 
 > All the conversions happen is Search-Time. It doesn't affect Indexed data.
 
